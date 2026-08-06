@@ -1,0 +1,29 @@
+---
+title: "Schlusssitzung"
+subtitle: "Seminar Czesław Miłosz"
+authors:
+  - "Leo Spack"
+date: 28-05-2026
+date-format: "dddd, DD.MMMM YYYY"
+date-meta: 28-05-2026
+resources:
+  - This.pdf
+  - To.pdf
+format:
+  html:
+    mainfont: Arial Regular
+    fontsize: 12pt
+papersize: A4
+toc: true
+toc-location: left
+navbar: true
+navbar-location: right
+lang: de
+
+---
+
+\pagebreak
+
+# To
+
+{{< pdf To.pdf width=400 height=600 >}}

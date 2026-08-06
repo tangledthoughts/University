@@ -1,0 +1,22 @@
+---
+title: "Einführung Slavistik"
+authors:
+  - "Leo Spack"
+format: 
+  html: default
+glossary:
+  path: glossary.yml
+  popup: hover
+  show: true
+  table: true
+lang: de
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+# Test
+
+{{< glossary table=true >}}
+pti

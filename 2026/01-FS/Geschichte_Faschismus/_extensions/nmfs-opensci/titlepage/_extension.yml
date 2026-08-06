@@ -1,0 +1,20 @@
+title: titlepage
+author: Eli Holmes
+version: 3.3.11
+quarto-required: '>=1.1.0'
+source: nmfs-opensci/quarto_titlepages@v3.3.11
+source-type: registry
+contributes:
+  format:
+    pdf:
+      filters:
+        - titlepage-theme.lua
+        - coverpage-theme.lua
+      template-partials:
+        - "_coverpage.tex"
+        - "_author-affiliation-themes.tex"
+        - "_header-footer-date-themes.tex"
+        - "_title-themes.tex"
+        - "_titlepage.tex"
+        - "before-body.tex"
+        - "pandoc.tex"

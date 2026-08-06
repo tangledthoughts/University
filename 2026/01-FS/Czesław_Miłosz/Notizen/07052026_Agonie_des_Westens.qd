@@ -1,0 +1,17 @@
+.pattoroot granularity{}
+.docname {07052026_Agonie_des_Westens}
+.docdescription {Notizen zur Sitzung vom 07.05.2026}
+.doctype {paged}
+.doclang {German}
+.theme {paperwhite} layout:{latex}
+
+.docauthors
+- Leo Spack
+
+.pagemargin {bottomcenter} 
+    .currentpage
+
+#! Von der Agonie des Westens
+
+.tableofcontents
+

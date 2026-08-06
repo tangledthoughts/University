@@ -1,0 +1,111 @@
+/* RESET */
+body {
+  margin: 0;
+  font-family: "Helvetica", Arial, sans-serif;
+  background: #eaeef3;
+}
+
+/* PAGE */
+.page {
+  width: 210mm;
+  height: 297mm;
+  margin: 20px auto;
+  background: white;
+  padding: 25mm;
+  box-sizing: border-box;
+  page-break-after: always;
+}
+
+/* HEADER */
+header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 10pt;
+  margin-bottom: 15px;
+}
+
+/* TITLE */
+.title-block h1 {
+  font-size: 22pt;
+  margin: 0;
+  color: #1e2a38;
+}
+
+.title-block p {
+  margin: 4px 0 15px;
+  color: #6b7280;
+}
+
+/* GRID */
+.grid {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  gap: 20px;
+}
+
+/* CARDS */
+.card {
+  background: white;
+  border-radius: 10px;
+  padding: 14px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin-bottom: 15px;
+}
+
+/* SPECIAL CARDS */
+.highlight {
+  background: #1e2a38;
+  color: white;
+}
+
+.thesis {
+  border-left: 5px solid #2563eb;
+}
+
+.discussion {
+  border-left: 5px solid #dc2626;
+}
+
+.source {
+  opacity: 0.8;
+}
+
+/* TYPO */
+h3 {
+  margin-top: 0;
+  font-size: 12pt;
+  color: #1e2a38;
+}
+
+.highlight h3 {
+  color: white;
+}
+
+ul, ol {
+  padding-left: 18px;
+}
+
+li {
+  margin-bottom: 4px;
+}
+
+/* TWO COLS */
+.two-cols {
+  display: flex;
+  gap: 20px;
+}
+
+/* PRINT */
+@media print {
+  body {
+    background: none;
+  }
+
+  .card {
+    box-shadow: none;
+  }
+
+  .page {
+    margin: 0;
+  }
+}

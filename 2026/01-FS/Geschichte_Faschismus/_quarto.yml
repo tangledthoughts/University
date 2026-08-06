@@ -1,0 +1,34 @@
+project:
+  title: "Geschichte_Faschismus"
+  type: PrettyPDF
+
+title: "Geschichte des Faschismus"
+author: "Leo Spack"
+
+format:
+  titlepage-pdf:
+    titlepage: classic-lined
+    titlepage-logo: "./img/fasces.png"
+    titlepage-theme:
+    elements: ["\\titleblock", "\\authorblock", "\\vfill", "\\logoblock"]
+    page-align: "center"
+    title-style: "doublelinewide"
+    title-fontsize: 30
+    title-fontstyle: "uppercase"
+    title-space-after: "0.6\\textheight"
+    subtitle-fontstyle: "Large"
+    author-style: "plain"
+    author-sep: "\\hskip1em"
+    author-fontstyle: "Large"
+    author-space-after: "2\\baselineskip"
+    logo-size: "0.25\\textheight"
+    logo-space-after: "1cm"
+    mainfont: "Arial"
+papersize: A4
+toc: true
+number-sections: true
+lang: de
+glossary:
+  path: glossary.yaml
+  popup: hover
+  show: true
