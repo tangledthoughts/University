@@ -1,0 +1,187 @@
+{
+	"folders": [
+		{
+			"name": "University",
+			"path": "/Users/tangle/Documents/02_university"
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"catppuccin.catppuccin-vsc",
+			"catppuccin.catppuccin-vsc-icons",
+			"kamikillerto.vscode-colorize",
+			"syncfusioninc.document-viewer-vscode-extensions",
+			"seyyedkhandon.firacode",
+			"foam.foam-vscode",
+			"michelemelluso.gitignore",
+			"mathematic.vscode-latex",
+			"jeffersonqin.latex-snippets-jeff",
+			"yzhang.markdown-all-in-one",
+			"satokaz.vscode-markdown-header-coloring",
+			"codesmith.markdown-inline-editor-vscode",
+			"mathiassoeholm.markdown-link-updater",
+			"kortina.vscode-markdown-notes",
+			"robole.markdown-snippets",
+			"darkriszty.markdown-table-prettify",
+			"davidanson.vscode-markdownlint",
+			"tomoyukim.vscode-mermaid-editor",
+			"bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+			"ionutvmi.path-autocomplete",
+			"esbenp.prettier-vscode",
+			"quarto.quarto",
+			"emilhvitfeldt.quarto-helpers",
+			"herosi.quarto-mov-abs-elems",
+			"ntluong95.quarto-wingman",
+			"mcanouil.quarto-wizard",
+			"hyperoot.settings-organizer",
+			"robole.snippets-ranger",
+			"tyriar.sort-lines",
+			"sandy081.todotasks",
+			"fdscend.vscode-markdown-obsidian-alert",
+			"redhat.vscode-yaml",
+			"github.codespaces",
+
+		]
+	},
+	"settings": {
+		"spellright.configurationScope": "workspace",
+		"spellright.configurationUpdate": true,
+		"spellright.statusBarIndicator": true,
+		"spellright.language": [
+			"de",
+			"en",
+			"fr",
+			"it",
+			"pl",
+			"la"
+		],
+		"spellright.documentTypes": [
+			"markdown",
+			"latex",
+			"plaintext",
+			"Log",
+			"quarto",
+		],
+		"spellright.parserByClass": {
+			"Log": {
+				"parser": [
+					"markdown",
+					"quarto",
+					".md",
+					".qmd"
+				]
+			}
+		},
+		"spellright.groupDictionaries": true,
+		"spellright.addToSystemDictionary": true,
+		"markdown.extension.extraLangIds": [
+			"quarto"
+		],
+		"editor.fontSize": 14,
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 300,
+		"editor.defaultFormatter": null,
+		"editor.fontFamily": "Fira Code",
+		"editor.fontLigatures": true,
+		"editor.wordWrap": "bounded",
+		"window.autoDetectColorScheme": false,
+		"workbench.colorTheme": "Catppuccin Macchiato",
+		"workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
+		"workbench.preferredLightColorTheme": "Catppuccin Latte",
+		"workbench.iconTheme": "catppuccin-macchiato",
+
+		"workbench.editor.enablePreview": true,
+		"markdownlint.configFile": "./.markdownlint.json",
+		"[markdown]": {
+			"editor.defaultFormatter": "yzhang.markdown-all-in-one",
+			"editor.unicodeHighlight.ambiguousCharacters": false,
+			"editor.unicodeHighlight.invisibleCharacters": false,
+			"diffEditor.ignoreTrimWhitespace": false,
+			"editor.wordWrap": "on",
+			"editor.quickSuggestions": {
+				"comments": "on",
+				"strings": "on",
+				"other": "on"
+			},
+			"editor.fontSize": 14,
+		},
+		"colorize.languages": [
+			"css",
+			"sass",
+			"scss",
+			"less",
+			"postcss",
+			"sss",
+			"stylus",
+			"xml",
+			"svg",
+			"javascript",
+			"markdown",
+			"html"
+		],
+		"workbench.settings.alwaysShowAdvancedSettings": true,
+		"extensions.closeExtensionDetailsOnViewChange": true,
+		"editor.cursorBlinking": "solid",
+		"editor.cursorStyle": "block",
+		"editor.cursorWidth": 1,
+		"editor.cursorSurroundingLines": 1,
+		"editor.cursorSmoothCaretAnimation": "on",
+		"workbench.editor.highlightModifiedTabs": true,
+		"workbench.editor.labelFormat": "short",
+		"markdown.preview.typographer": true,
+		"markdown.preview.markEditorSelection": true,
+		"vscodeMarkdownNotes.previewShowFileExtension": false,
+		"prettier.endOfLine": "auto",
+		"quartoWizard.ask.trustAuthors": "never",
+		"quartoWizard.update.crossSource": true,
+		"quartoWizard.autoProjectDetection": "openEditors",
+		"vscodeMarkdownNotes.allowPipedWikiLinks": false,
+		"markdown.extension.completion.enabled": true,
+		"markdown.extension.showActionButtons": true,
+		"markdown.extension.toc.orderedList": true,
+		"foam.dateLocale": "'de-CH'",
+		"editor.formatOnType": true,
+
+		"markdown.validate.enabled": true,
+		"markdown.preview.openMarkdownLinks": "inPreview",
+		"markdown-header-coloring.userDefinedHeaderColor": {
+			"enabled": true,
+			"Header_1": {
+				"color": "#c6a0f6",
+				"backgroundColor": "#c6a0f6",
+				"textDecoration": "font-size: 24pt; background-color: rgba(136, 57, 239,0.2); border-radius: 9px;",
+				"overviewRulerColor": "#c6a0f6"
+			},
+			"Header_2": {
+				"color": "#ee99a0",
+				"backgroundColor": "#e64553",
+				"textDecoration": "font-size: 22pt; background-color: rgba(230, 69, 83, 0.2); border-radius: 9px;",
+				"overviewRulerColor": "#e64553"
+			},
+			"Header_3": {
+				"color": "#f4dbd6",
+				"backgroundColor": "#f4dbd6",
+				"textDecoration": "font-size: 20pt; background-color: rgba(220, 138, 120, 0.2); border-radius: 9px;",
+				"overviewRulerColor": "#f4dbd6"
+			},
+			"Header_4": {
+				"color": "#a6da95",
+				"backgroundColor": "#a6da95",
+				"textDecoration": "font-size: 18pt; background-color: rgba(64, 160, 43, 0.2); border-radius: 9px;",
+				"overviewRulerColor": "#a6da95"
+			},
+			"Header_5": {
+				"color": "#04a5e5",
+				"backgroundColor": "#91d7e3",
+				"textDecoration": "font-size: 16pt; text-shadow: 2px 2px 3px rgba(0,0,0,0.5)",
+				"overviewRulerColor": "#91d7e3"
+			},
+			"Header_6": {
+				"color": "#7287fd",
+				"backgroundColor": "#b7bdf8",
+				"textDecoration": "font-size: 14pt; text-shadow: 2px 2px 3px rgba(0,0,0,0.5)",
+				"overviewRulerColor": "#b7bdf8"
+			}
+		},
+	}
+}

@@ -1,0 +1,30 @@
+{
+  "markdown.suggest.paths.enabled": true,
+  "markdown.validate.enabled": true,
+  "markdown.validate.fileLinks.enabled": "warning",
+  "markdown.validate.fragmentLinks.enabled": "warning",
+  "markdown.validate.ignoredLinks": [
+    "/Users/tangle/Documents/02_university/2026/01-FS/Geschichte_Faschismus/img/fasces.png"
+  ],
+  "spellright.documentTypes": [
+    "markdown",
+    "latex",
+    "plaintext",
+    "Log"
+  ],
+  "spellright.language": [
+    "en",
+    "de",
+    "pl",
+    "fr",
+    "it"
+  ],
+  "spellright.parserByClass": {
+    "Log": {
+      "parser": [
+        "markdown",
+        "quarto"
+      ]
+    }
+  }
+}
