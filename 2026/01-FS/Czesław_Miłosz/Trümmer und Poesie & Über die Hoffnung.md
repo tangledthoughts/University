@@ -1,10 +1,14 @@
 ---
-Link:
-  - "[[04 W Warszawie]]"
 tags:
   - Czesław_Miłosz
 ---
+
+[04 W Warszawie](04%20W%20Warszawie.md)
+
 Thursday, 26. March 2026
+
+---
+
 
 # Präsentation
 

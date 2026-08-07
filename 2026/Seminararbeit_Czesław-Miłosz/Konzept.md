@@ -12,9 +12,10 @@ tags:
     - Seminar
     - Slavistik
     - FS_26
-  ---
-links:
-  [[/Users/tangle/Documents/02_university/2026/01-FS/Czesław_Miłosz/Trümmer und Poesie & Über die Hoffnung.md|Trümmer-und-Poesie]]
+---
+
+  [Trümmer und Poesie Notizen](../01-FS/Czesław_Miłosz/Trümmer%20und%20Poesie%20&%20Über%20die%20Hoffnung.md)
+
 ---
 
 **Arbeitstitel:** Krieg und Okkupationszeit im Schaffen von Czesław Miłosz
@@ -66,4 +67,4 @@ Ziel der Arbeit ist es, ausgewählte Werke Czesław Miłoszs aus der Zeit vor un
 - *W Warszawie*
 - *Piosenka o końcu świata*
 
---> Die endgültige Auswahl der Literatur erfolgt nach      Rücksprache. Die Auswahl der Literatur vor dem Zweiten Weltkrieg steht noch nicht fest.
+--> Die endgültige Auswahl der Literatur erfolgt nach Rücksprache. Die Auswahl der Literatur vor dem Zweiten Weltkrieg steht noch nicht fest.

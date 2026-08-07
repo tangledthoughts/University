@@ -84,11 +84,11 @@
 		"editor.fontFamily": "Fira Code",
 		"editor.fontLigatures": true,
 		"editor.wordWrap": "bounded",
-		"window.autoDetectColorScheme": false,
-		"workbench.colorTheme": "Catppuccin Macchiato",
+		"window.autoDetectColorScheme": true,
+		"workbench.colorTheme": "Catppuccin Mocha",
 		"workbench.preferredDarkColorTheme": "Catppuccin Macchiato",
 		"workbench.preferredLightColorTheme": "Catppuccin Latte",
-		"workbench.iconTheme": "catppuccin-macchiato",
+		"workbench.iconTheme": "catppuccin-mocha",
 
 		"workbench.editor.enablePreview": true,
 		"markdownlint.configFile": "./.markdownlint.json",
@@ -142,7 +142,7 @@
 		"foam.dateLocale": "'de-CH'",
 		"editor.formatOnType": true,
 
-		"markdown.validate.enabled": true,
+		"markdown.validate.enabled": false,
 		"markdown.preview.openMarkdownLinks": "inPreview",
 		"markdown-header-coloring.userDefinedHeaderColor": {
 			"enabled": true,
@@ -183,5 +183,28 @@
 				"overviewRulerColor": "#b7bdf8"
 			}
 		},
-	}
+		"emojisense.unicodeCompletionsEnabled": true,
+		"emojisense.markupCompletionsEnabled": true,
+		"emojisense.showOnColon": true,
+		"emojisense.languages": {
+			"markdown": true,
+			"plaintext": {
+				"markupCompletionsEnabled": false,
+				"emojiDecoratorsEnabled": false
+			},
+			"scminput": true,
+			"git-commit": true,
+			"quarto": true
+		},
+		"markdown.preview.breaks": true,
+		"markdown-preview-enhanced.enableExtendedTableSyntax": true,
+		"markdown-preview-enhanced.enableHTML5Embed": true,
+		"markdown-preview-enhanced.enablePreviewZenMode": false,
+		"markdown-preview-enhanced.enableTypographer": false,
+		"markdown-preview-enhanced.printBackground": false,
+		"markdown-preview-enhanced.alwaysShowBacklinksInPreview": true,
+		"markdown-preview-enhanced.enableCriticMarkupSyntax": false,
+		"markdown-preview-enhanced.previewColorScheme": "systemColorScheme",
+		"markdown-preview-enhanced.markdownParser": "markdown_yo"
+	},
 }
