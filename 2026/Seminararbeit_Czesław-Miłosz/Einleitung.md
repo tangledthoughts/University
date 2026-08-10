@@ -13,6 +13,8 @@ lang: de
 
 # Einleitung
 
+<!-- Dieser Teil beschreibt, was allg. in eine Einleitung gehört -->
+
 Die Einleitung einer Seminararbeit führt in die Thematik ein.
 Die wissenschaftliche Fragestellung wird präsentiert und ihre Relevanz wird dargestellt.
 
@@ -20,7 +22,7 @@ Die wissenschaftliche Fragestellung wird präsentiert und ihre Relevanz wird dar
 
 > [!CAUTION] Umfang
 > ca. 10–15% der Arbeit
- 
+
 <br>
 
 **Bestandteile der Einleitung:**
@@ -31,6 +33,30 @@ Die wissenschaftliche Fragestellung wird präsentiert und ihre Relevanz wird dar
 - **Aufbau:** Wie ist die Arbeit aufgebaut?
 - **Begrenzungen:** Welche Einschränkungen wurden gemacht?
 
- Methodik
+Methodik
 : Vorgehensweise bei wissenschaftlichen Arbeiten
 
+---
+
+<!-- Dieser Teil enthält Notizen und Ideen für die Einleitung -->
+## Erstellung der Bibliographie
+
+### Poezje Wybrane
+
+- Hymn
+  - nur wenn relevant
+  - Paryż, 1935
+- Campo di Fiori
+    - Warszawa, 1943
+- Biedny Poeta
+  - Warszawa, 1944
+- Biedny chrześcijanin patrzy na getto
+  - Warszawa, 1943
+- W Warszawie
+  - Warszawa, 1945
+- Przedmowa
+  - Warszawa, 1945
+- Dziecię Europy
+  - Nowy Jork, 1946
+- Mittelbergheim
+  - Mittelbergheim, Alzacja, 1951
