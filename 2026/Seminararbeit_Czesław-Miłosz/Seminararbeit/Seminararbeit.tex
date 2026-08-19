@@ -1,0 +1,71 @@
+% !TEX spellcheck = de-CH
+% TODO Kopf- und Fusszeilen
+% TODO Biber und BibTeX Quellen
+\documentclass[12pt,a4paper]{article}
+\usepackage[
+  top=0.084\paperheight,
+  bottom=0.084\paperheight,
+  left=0.12\paperwidth,
+  right=0.2\paperwidth
+]{geometry}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\onehalfspacing%
+\usepackage[justifying]{ragged2e}
+\usepackage{fontspec}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\usepackage{fontawesome5}
+\usepackage{polyglossia}
+\setdefaultlanguage[variant=swiss]{german}
+\usepackage{enumitem}
+\usepackage{iitem}
+\usepackage{graphicx}
+\setlist{noitemsep}
+\usepackage{xcolor}
+
+\begin{document}
+  \begin{titlepage}
+    \pagestyle{empty}
+    \begin{figure}[h]
+      \vspace{-12mm}
+      \hspace{110mm}
+      \includegraphics[height=40mm]{assets/unifr-logo.png}
+    \end{figure}
+    \vspace{2cm}
+    \begin{center}
+      \textbf{\fontsize{28}{24}\selectfont
+      Seminararbeit} \\
+      \vspace*{1.5cm}
+      \textbf{\fontsize{36}{36}\selectfont
+      Krieg und Okkupationszeit im Schaffen von Czesław Miłosz} \\
+      \vspace*{1.5cm}
+      \textbf{\fontsize{24}{24}\selectfont
+      Ein Vergleich ausgewählter Werke vor und nach dem Zweiten Weltkrieg} \\
+      \vspace*{2cm}
+    \end{center}
+    \fontsize{11}{11}\selectfont
+     \begin{itshape}
+        \begin{flushright}
+          Leo Spack \\
+          leo.spack@unifr.ch \\
+          Matrikel-Nr.: 23-211-766 \\
+        \end{flushright}
+        \vspace*{0.8cm}
+        \begin{flushleft}
+          Universität Fribourg \\
+          Departement für Europastudien und Slavistik, Bereich Slavistik \\
+          Seminar: Czesław Miłosz, Zeuge des 20. Jahrhunderts: Gedichte und Essays \\
+          Eingereicht bei: Prof. Dr. Jens Herlth \\
+          Eingereicht am: 31.08.2026
+        \end{flushleft}
+    \end{itshape}
+  \end{titlepage}
+  \newpage
+  \pagestyle{plain}
+  \setcounter{page}{1}
+  \noindent
+  \include{Einleitung.tex}
+  \include{Hauptteil.tex}
+  \include{Schluss.tex}
+\end{document}
