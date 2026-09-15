@@ -1,0 +1,78 @@
+---
+title: "Reagan-Revolution und das Ende des Kalten Krieges"
+format:
+  html: default
+  pdf: default
+toc: true
+toc-location: right
+section-number: true
+lang: de
+preview:
+  watch: true
+  browse: true
+---
+
+# Reaganomics
+
+## Vertiefung
+
+### Kerntheorie
+
+#### "Capitalism and Freedom"(1962): Das Manifest
+
+::::: {#Container .flex-container style="display: flex; flex-direction: row;"}
+::: {#Item-1 .flex-item style="flex: auto; flex-wrap: wrap; border: 1px solid;"}
+Placeholder
+
+jdksl
+
+djfksl
+
+fjkdsljfsajl
+:::
+
+::: {#Item-2 .flex-item style="flex: auto; flex-wrap: wrap; border: 1px solid;"}
+**Konkrete Reformvorschläge im Buch**
+
+- Negative Einkommenssteuer statt Sozialhilfebürokratie
+
+- Bildungsgutscheine ("vouchers") statt staatlicher Schulen
+
+- Privatisierung der Rentenversicherung
+
+- Abschaffung der Wehrpflicht (Freiwilligenarmee)
+
+- Ende des Mindestlohns
+
+- Abschaffung der staatlichen Ärztezulassung (AMA-Kritik)
+
+- Flexible Wechselkurse statt Bretton Woods
+
+- Geldmengenregel statt diskretionärer Notenbankpolitik
+
+- Ende der Marktzutrittsbarrieren in regulierten Branchen
+:::
+:::::
+
+> "… Friends, this election is about more than who gets what. It is
+> about who we are. It is about what we believe and what we stand for as
+> Americans. There is a religious war going on in this country. It is a
+> cultural war, as critical to the kind of nation we shall be as the
+> Cold War itself. For this war is for the soul of America. And in that
+> struggle for the soul of America, …
+>
+> And as those boys took back the streets of Los Angeles, block by
+> block, my friends, we must take back our cities, and take back our
+> culture, and take back our country.“
+>
+> <sub>Pat Buchannan "Culture war" 17.8.1992</sub>
+
+------------------------------------------------------------------------
+
+# Bush Sr. & der Golfkrieg
+
+## George H. W. Bush — Übergangspräsident
+
+::: {#card .card style="border: 1px solid red; display: flex; flex: auto; flex-wrap: wrap;"}
+**George H.W. Bush**
+:::

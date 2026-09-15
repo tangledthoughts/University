@@ -1,0 +1,18 @@
+.docname {Vietnam_und_die_Gegenkultur}
+.doctype {paged}
+.doclang {German}
+.theme {paperwhite} layout:{latex}
+
+.docauthors
+  - Leo Spack
+
+.pagemargin {bottomcenter}
+    .currentpage
+
+# Vietnam und die Gegenkultur
+## {Protest, Krieg und Gesellschaftswandel (1960–1975)}
+
+.tableofcontents
+  .title: {Inhaltsverzeichnis} \
+
+

@@ -46,3 +46,4 @@ uni-document
 ~$Studienplan_Bachelor.xlsx
 **/CV
 .vscode/spellright.dict
+**.aux

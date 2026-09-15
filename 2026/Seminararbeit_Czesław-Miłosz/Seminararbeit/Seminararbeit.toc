@@ -1,0 +1,10 @@
+\xpg@aux {variant=swiss}{german}
+\contentsline {section}{\numberline {1}Einleitung}{1}{section.1}%
+\contentsline {section}{\numberline {2}Hauptteil}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Historischer Kontext}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Allgemeinhistorischer Überblick}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Miłoszs Erfahrungen mit Krieg und Okkupation}{3}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Hymn — Paris, 1935}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Campo di Fiori — Warschau, 1943}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Biedny chrześcijanin patrzy na getto — Warschau, 1943}{6}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Schluss}{8}{section.3}%

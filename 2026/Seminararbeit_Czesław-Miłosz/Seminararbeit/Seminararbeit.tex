@@ -1,6 +1,4 @@
-% !TEX spellcheck = de-CH
-% TODO Kopf- und Fusszeilen
-% TODO Biber und BibTeX Quellen
+%!LW recipe="lualatex -> biber -> lualatex * 2"
 \documentclass[12pt,a4paper]{article}
 \usepackage[
   top=0.084\paperheight,
@@ -23,6 +21,11 @@
 \usepackage{graphicx}
 \setlist{noitemsep}
 \usepackage{xcolor}
+\usepackage{csquotes}
+\usepackage{hyperref}
+\usepackage{hypertoc}
+\usepackage[backend=biber]{biblatex-chicago}
+\addbibresource{sources.bib}
 
 \begin{document}
   \begin{titlepage}
@@ -57,10 +60,13 @@
           Departement für Europastudien und Slavistik, Bereich Slavistik \\
           Seminar: Czesław Miłosz, Zeuge des 20. Jahrhunderts: Gedichte und Essays \\
           Eingereicht bei: Prof. Dr. Jens Herlth \\
-          Eingereicht am: 31.08.2026
+          Eingereicht am: 11.09.2026
         \end{flushleft}
     \end{itshape}
   \end{titlepage}
+  \newpage
+  \pagestyle{empty}
+  \tableofcontents
   \newpage
   \pagestyle{plain}
   \setcounter{page}{1}
@@ -68,4 +74,6 @@
   \include{Einleitung.tex}
   \include{Hauptteil.tex}
   \include{Schluss.tex}
+  \newpage
+  \printbibliography
 \end{document}

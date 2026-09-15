@@ -1,0 +1,15 @@
+---
+title: "Nixon, Ford, Carter und die Krisenjahre"
+subtitle: "Watergate, Ölkrise und Vertrauensverlust (1969-1980)"
+format:
+  html:
+    toc: true
+    toc-location: right
+    html-math-method: katex
+    theme: default
+---
+
+#! Nixon, Ford, Carter und die Krisenjahre
+##! Watergate, Ölkrise und Vertrauensverlust (1969-1980)
+
+
